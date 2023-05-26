@@ -17,7 +17,7 @@ Hi! I'm Deivid,Passionate about design and web and mobile programming. Specializ
 ### Languages and Tools:
 [<img align="left" alt="HTML5" width="24px" height="24px" src="./img/html5.svg" style="padding-right:10px;" />](https://github.com/deividcool/)
 [<img align="left" alt="CSS3" width="24px" height="24px" src="./img/css3.svg" style="padding-right:10px;" />](https://github.com/deividcool/)
-[<img align="left" alt="JavaScript" width="24px" height="24px" src="./img/javascript.svg" style="padding-right:10px;" />](https://github.com/deividcool/
+[<img align="left" alt="JavaScript" width="24px" height="24px" src="./img/javascript.svg" style="padding-right:10px;" />](https://github.com/deividcool/)
 [<img align="left" alt="Figma" width="24px" height="24px" src="./img/figma.svg" style="padding-right:10px;" />](https://github.com/deividcool/)
 [<img align="left" alt="Github" width="24px" height="24px" src="./img/github_light.svg" style="padding-right:10px;" />](https://github.com/deividcool/#gh-light-mode-only)
 [<img align="left" alt="Github" width="24px" height="24px" src="./img/github_dark.svg" style="padding-right:10px;" />](https://github.com/deividcool/#gh-dark-mode-only)
